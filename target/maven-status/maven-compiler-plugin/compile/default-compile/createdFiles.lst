@@ -1,0 +1,12 @@
+com\retail\intercorp\controller\ClienteController.class
+com\retail\intercorp\config\CorsConfig.class
+com\retail\intercorp\service\impl\ClienteServiceImpl.class
+com\retail\intercorp\config\SwaggerConfig.class
+com\retail\intercorp\domain\Cliente.class
+com\retail\intercorp\controller\response\ClientesResponse.class
+com\retail\intercorp\service\ClienteService.class
+com\retail\intercorp\controller\response\ClientesKpiResponse.class
+com\retail\intercorp\repository\mapper\ClienteMapper.class
+com\retail\intercorp\IntercorpApplication.class
+com\retail\intercorp\repository\impl\ClienteRepositoryImpl.class
+com\retail\intercorp\repository\ClienteRepository.class
